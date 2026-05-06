@@ -294,16 +294,7 @@ Shows strong seasonal peaks during November.
 
 Clearly identifies high-value and churn-risk customer groups.
 
----
 
-# Project Structure
-
-```bash
-├── customer_segmentation_and_retention_analysis.ipynb
-├── README.md
-├── dataset.csv
-└── visualizations/
-```
 
 ---
 
@@ -312,7 +303,7 @@ Clearly identifies high-value and churn-risk customer groups.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/customer-segmentation-analysis.git
+git clone https://github.com/VeekshaSai27/Customer-Segmentation-and-Retention-Analysis.git
 ```
 
 ## Install Dependencies
@@ -329,14 +320,7 @@ jupyter notebook
 
 ---
 
-# Future Improvements
 
-* Build interactive dashboard using Streamlit or Power BI
-* Add machine learning-based churn prediction
-* Perform product-level recommendation analysis
-* Deploy as a business analytics web application
-
----
 
 # Conclusion
 
@@ -355,4 +339,4 @@ The project can help businesses make data-driven decisions for marketing, retent
 
 # Author
 
-Veeksha Kandula
+Kandula Veeksha Sai Rishita
